@@ -11,7 +11,7 @@
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-axios": "^0.17.1",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-image-slider-box": "^1.0.5",
     "react-native-image-zoom-viewer": "^2.2.26",
